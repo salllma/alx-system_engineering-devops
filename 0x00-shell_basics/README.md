@@ -1,1 +1,1 @@
-where am i
+lets write scripts!
