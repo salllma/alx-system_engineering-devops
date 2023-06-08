@@ -1,1 +1,2 @@
-i'm working now
+0x00. Shell, basics
+
